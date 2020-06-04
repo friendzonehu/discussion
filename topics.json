@@ -2,6 +2,13 @@
   {
     "id": 1,
     "name": "",
+    "defend": [{"name": "Metric system"}, {"name": "Imperial system"}],
     "sub": ""
   },
+  {
+    "id": 2,
+    "name": "",
+    "defend": [{"name": ""}, {"name": ""}],
+    "sub": ""
+  }
 ]
